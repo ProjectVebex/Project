@@ -20,7 +20,7 @@ public class CreateQuizTeacherActivity extends AppCompatActivity {
         binding.IdAddQuestionCreateQuizTeacher.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                int i=0;
             }
         });
     }
